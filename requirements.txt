@@ -3,3 +3,5 @@ dash
 matplotlib
 plotly
 selenium
+bs4
+requests
